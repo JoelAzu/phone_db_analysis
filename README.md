@@ -1,12 +1,6 @@
-# 📊 PhoneDB Analysis Toolkit
-
-A custom-built Python solution developed for a client to extract, analyze, and visualize mobile device data for market and product insights.
-
----
-
 ## 📘 Project Overview
 
-This project was developed for a client seeking to derive actionable insights from a large dataset of smartphone and mobile device specifications sourced from [PhoneDB](https://phonedb.net/). The goal was to support product strategy, market analysis, and feature benchmarking through a lightweight, data-driven tool.
+This project was developed to derive actionable insights from a large dataset of smartphone and mobile device specifications sourced from [PhoneDB](https://phonedb.net/). The goal was to support product strategy, market analysis, and feature benchmarking through a lightweight, data-driven tool.
 
 The resulting solution enables fast data retrieval, dynamic analysis, and clear visualizations — all built in Python using CSV, pandas, and matplotlib.
 
